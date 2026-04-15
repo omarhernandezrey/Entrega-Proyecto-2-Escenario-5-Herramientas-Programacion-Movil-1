@@ -1,0 +1,33 @@
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\contentsline {table}{\numberline {1}{\ignorespaces Análisis de requerimientos funcionales y no funcionales de Recipe Generator}}{2}{table.1}%
+\contentsline {table}{\numberline {2}{\ignorespaces Paleta de colores --- Material Design~3}}{8}{table.caption.7}%
+\contentsline {table}{\numberline {3}{\ignorespaces Entidades del modelo de datos --- Recipe Generator}}{12}{table.caption.10}%
+\contentsline {table}{\numberline {4}{\ignorespaces Opciones del panel izquierdo y composables del panel derecho en LeftMenuFragment}}{25}{table.4}%
+\contentsline {table}{\numberline {5}{\ignorespaces Resumen de actividades y fragmentos de Recipe Generator}}{26}{table.5}%
+\contentsline {table}{\numberline {6}{\ignorespaces Estados de autenticación y composables mostrados en MainActivity}}{28}{table.caption.19}%
+\contentsline {table}{\numberline {7}{\ignorespaces Secciones de controles implementados en ControlsScreen}}{37}{table.7}%
+\contentsline {table}{\numberline {8}{\ignorespaces Identificadores XML en activity\_main.xml}}{39}{table.caption.28}%
+\contentsline {table}{\numberline {9}{\ignorespaces Identificadores XML en fragment\_global\_recipe\_search.xml}}{39}{table.caption.29}%
+\contentsline {table}{\numberline {10}{\ignorespaces Identificadores y propiedades de vistas Compose en MainActivity}}{40}{table.10}%
+\contentsline {table}{\numberline {11}{\ignorespaces Identificadores y propiedades de vistas Compose en RecipeDetailActivity}}{40}{table.11}%
+\contentsline {table}{\numberline {12}{\ignorespaces Identificadores y propiedades de vistas Compose en HomeFragment}}{40}{table.12}%
+\contentsline {table}{\numberline {13}{\ignorespaces Identificadores y propiedades de vistas Compose en FavoritesFragment}}{41}{table.13}%
+\contentsline {table}{\numberline {14}{\ignorespaces Identificadores y propiedades de vistas Compose en MenuGeneratorFragment}}{41}{table.14}%
+\contentsline {table}{\numberline {15}{\ignorespaces Identificadores y propiedades de vistas Compose en SettingsFragment}}{42}{table.15}%
+\contentsline {table}{\numberline {16}{\ignorespaces Identificadores y propiedades del layout de dos paneles en LeftMenuFragment}}{43}{table.16}%
+\contentsline {table}{\numberline {17}{\ignorespaces Identificadores y propiedades del panel izquierdo LeftMenuScreen}}{43}{table.17}%
+\contentsline {table}{\numberline {18}{\ignorespaces Valores del enum LeftMenuPanel con etiquetas, íconos y tags}}{44}{table.caption.30}%
+\contentsline {table}{\numberline {19}{\ignorespaces Eventos y métodos declarados en MainActivity}}{63}{table.19}%
+\contentsline {table}{\numberline {20}{\ignorespaces Eventos y métodos declarados en RecipeDetailActivity}}{63}{table.20}%
+\contentsline {table}{\numberline {21}{\ignorespaces Eventos y métodos declarados en HomeFragment}}{63}{table.21}%
+\contentsline {table}{\numberline {22}{\ignorespaces Eventos y métodos declarados en FavoritesFragment}}{64}{table.22}%
+\contentsline {table}{\numberline {23}{\ignorespaces Eventos y métodos declarados en MenuGeneratorFragment}}{64}{table.23}%
+\contentsline {table}{\numberline {24}{\ignorespaces Eventos y métodos declarados en SettingsFragment}}{65}{table.24}%
+\contentsline {table}{\numberline {25}{\ignorespaces Eventos y métodos declarados en GlobalRecipeSearchFragment}}{65}{table.25}%
+\contentsline {table}{\numberline {26}{\ignorespaces Eventos y métodos declarados en LeftMenuFragment y MainScreen}}{66}{table.26}%
+\contentsline {table}{\numberline {27}{\ignorespaces Eventos y métodos declarados en ProfileScreen}}{66}{table.27}%
+\contentsline {table}{\numberline {28}{\ignorespaces Eventos y métodos declarados en PhotosScreen}}{66}{table.28}%
+\contentsline {table}{\numberline {29}{\ignorespaces Eventos y métodos declarados en VideoScreen}}{67}{table.29}%
+\contentsline {table}{\numberline {30}{\ignorespaces Eventos y métodos declarados en WebScreen}}{67}{table.30}%
+\contentsline {table}{\numberline {31}{\ignorespaces Eventos y métodos declarados en ControlsScreen}}{68}{table.31}%

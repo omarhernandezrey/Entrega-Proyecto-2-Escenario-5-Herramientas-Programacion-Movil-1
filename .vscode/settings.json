@@ -1,0 +1,14 @@
+{
+  "[bibtex]": {
+    "editor.defaultFormatter": "James-Yu.latex-workshop"
+  },
+  "bibtex-formatter.trailingCommas": false,
+  "latex-workshop.linting.chktex.enabled": false,
+  "latex-workshop.bibtex.enabled": false,
+  "[latex]": {
+    "editor.codeActionsOnSave": {}
+  },
+  "latex-workshop.linting.bibtex.enabled": false,
+  "linter.bibtex.enabled": false,
+  "validation.latex": false
+}

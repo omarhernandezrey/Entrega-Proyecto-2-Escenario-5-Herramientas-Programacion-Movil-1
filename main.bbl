@@ -1,0 +1,179 @@
+\begin{thebibliography}{}
+
+\bibitem [\protect \citeauthoryear {%
+{Android Developers}%
+}{%
+{Android Developers}%
+}{%
+{\protect \APACyear {2024}}%
+{\protect \APACexlab {{\protect \BCnt {1}}}}}]{%
+androiddevelopers2024fragments}
+\APACinsertmetastar {%
+androiddevelopers2024fragments}%
+\begin{APACrefauthors}%
+{Android Developers}.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2024{\protect \BCnt {1}}}{}{}.
+\newblock
+\APACrefbtitle {Fragment overview.} {Fragment overview.}
+\newblock
+\begin{APACrefURL} [{2026-03-19}]\url{https://developer.android.com/guide/fragments} \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+{Android Developers}%
+}{%
+{Android Developers}%
+}{%
+{\protect \APACyear {2024}}%
+{\protect \APACexlab {{\protect \BCnt {2}}}}}]{%
+androiddevelopers2024navigation}
+\APACinsertmetastar {%
+androiddevelopers2024navigation}%
+\begin{APACrefauthors}%
+{Android Developers}.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2024{\protect \BCnt {2}}}{}{}.
+\newblock
+\APACrefbtitle {Navigation component.} {Navigation component.}
+\newblock
+\begin{APACrefURL} [{2026-03-19}]\url{https://developer.android.com/guide/navigation} \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+{Android Developers}%
+}{%
+{Android Developers}%
+}{%
+{\protect \APACyear {2024}}%
+{\protect \APACexlab {{\protect \BCnt {3}}}}}]{%
+androiddevelopers2024room}
+\APACinsertmetastar {%
+androiddevelopers2024room}%
+\begin{APACrefauthors}%
+{Android Developers}.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2024{\protect \BCnt {3}}}{}{}.
+\newblock
+\APACrefbtitle {Room persistence library.} {Room persistence library.}
+\newblock
+\begin{APACrefURL} [{2026-03-19}]\url{https://developer.android.com/training/data-storage/room} \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Benbourahla%
+}{%
+Benbourahla%
+}{%
+{\protect \APACyear {2015}}%
+}]{%
+benbourahla2015}
+\APACinsertmetastar {%
+benbourahla2015}%
+\begin{APACrefauthors}%
+Benbourahla, N.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{2015}.
+\newblock
+\APACrefbtitle {Android 5. Principios del desarrollo de aplicaciones {Java}} {Android 5. principios del desarrollo de aplicaciones {Java}}.
+\newblock
+\APACaddressPublisher{}{ENI}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Gironés%
+}{%
+Gironés%
+}{%
+{\protect \APACyear {2013}}%
+}]{%
+girones2013}
+\APACinsertmetastar {%
+girones2013}%
+\begin{APACrefauthors}%
+Gironés, J.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{2013}.
+\newblock
+\APACrefbtitle {El gran libro de {Android}} {El gran libro de {Android}}.
+\newblock
+\APACaddressPublisher{}{Marcombo}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+{Google LLC}%
+}{%
+{Google LLC}%
+}{%
+{\protect \APACyear {2024}}%
+}]{%
+googlematerial2024}
+\APACinsertmetastar {%
+googlematerial2024}%
+\begin{APACrefauthors}%
+{Google LLC}.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2024}{}{}.
+\newblock
+\APACrefbtitle {Material {Design} 3.} {Material {Design} 3.}
+\newblock
+\begin{APACrefURL} [{2026-03-19}]\url{https://m3.material.io} \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Robledo%
+}{%
+Robledo%
+}{%
+{\protect \APACyear {2017}}%
+}]{%
+robledo2017}
+\APACinsertmetastar {%
+robledo2017}%
+\begin{APACrefauthors}%
+Robledo, D.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2017}{}{}.
+\newblock
+\APACrefbtitle {Desarrollo de aplicaciones para {Android} {I}.} {Desarrollo de aplicaciones para {Android} {I}.}
+\newblock
+\begin{APACrefURL} [{2026-03-19}]\url{https://ebookcentral-proquest-com.loginbiblio.poligran.edu.co} \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Smyth%
+}{%
+Smyth%
+}{%
+{\protect \APACyear {2017}}%
+}]{%
+smyth2017}
+\APACinsertmetastar {%
+smyth2017}%
+\begin{APACrefauthors}%
+Smyth, N.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{2017}.
+\newblock
+\APACrefbtitle {{Android Studio} 3.0 Development Essentials: {Android 8 Edition}} {{Android Studio} 3.0 development essentials: {Android 8 Edition}}.
+\newblock
+\APACaddressPublisher{}{Payload Media}.
+\PrintBackRefs{\CurrentBib}
+
+\end{thebibliography}
